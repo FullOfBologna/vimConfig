@@ -1,3 +1,11 @@
+" To set vim to read this vimrc, type the following commands
+"
+"   export VIMINIT='source $MYVIMRC'
+"   export MYVIMRC='home/jeatkins/vimConfig/.vimrc'
+"
+
+
+
 " Enable syntax highlighting
 syntax enable
 
